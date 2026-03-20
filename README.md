@@ -2,8 +2,8 @@
 
 > **Research Internship Project** — University of South Carolina, Department of Psychology  
 > Supervisors: Prof. Rutvik H. Desai & Prof. Yuan Wang  
-> Duration: September 2024 – March 2025
-> For proof of work and recommendation letter, see my [LinkedIn profile]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/))
+> Duration: September 2024 – March 2025  
+> For proof of work and recommendation letter, see my [LinkedIn profile] (https://www.linkedin.com/in/haryaksh-manuh-bhardwaj/))
 ---
 
 ## Overview
